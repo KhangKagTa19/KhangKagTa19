@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**KhangKagTa19/KhangKagTa19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gia Khang TA. Currently I'm a student of Computer Science at **Ho Chi Minh University of Technology**.  
+Followers: [Followers](https://github.com/KhangKagTa19?tab=followers) <br>
+About **HCMUT**: https://oisp.hcmut.edu.vn/en/
 
-Here are some ideas to get you started:
+### 1. Introduction
+⌨ I’m currently studying and doing some researches related to **Computer Vision** and **Speech Processing**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2. Hobbies 
+- Music
+- Reading research papers
+- System design and system scaling
+- Calculus
+- Data structures and algorithms
+  
+### 3. Research fields 
+- Natural Language Processing (NLP)
+- Computer Vision
+- Speech Processing
+
+### 4. Experiences 
+Programming languages: `C`, `C++`, `Python`, `Haskell`
+- Be able to make basic websites
+- Algorithms related to general AI
+- Familiar with ANN
+
+### 5. Contacts 
+- Contact me via emails: khang.ta1902@hcmut.edu.vn or tagiakhang19@gmail.com
+
+- Facebook: https://www.facebook.com/kagtgi19/
+
+- Linkedln:
