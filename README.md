@@ -20,7 +20,7 @@ About **HCMUT**: https://oisp.hcmut.edu.vn/en/
 - Speech Processing
 
 ### 4. Experiences 
-Programming languages: `C`, `C++`, `Python`, `Haskell`
+Programming languages: `C`, `C++`, `Python`, `Haskell`, `Golang`, `JS`
 - Be able to make basic websites
 - Algorithms related to general AI
 - Familiar with ANN
