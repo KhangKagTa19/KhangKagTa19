@@ -30,4 +30,4 @@ Programming languages: `C`, `C++`, `Python`, `Haskell`, `Golang`, `JS`
 
 - Facebook: https://www.facebook.com/kagtgi19/
 
-- Linkedln:
+- Linkedln: https://www.linkedin.com/in/gia-khang-t%E1%BA%A1-976653255/
